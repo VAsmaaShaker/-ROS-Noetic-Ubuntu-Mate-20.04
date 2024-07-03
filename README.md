@@ -52,5 +52,6 @@ Then click on (Install Now).
 8. Select your timezone and then click (Continue).
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/7051562f-098d-4070-a52e-bdcf398f8613)
 9. Then in the next window, you will be asked to enter your information. Fill in the required details such as: username, password, and computer name, then click (Continue).
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/05d3d625-a412-4525-abe6-721c78d172dc)
 
 **Then the installation will begin. Note: The installation process may take time.**
