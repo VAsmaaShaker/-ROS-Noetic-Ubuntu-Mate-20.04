@@ -12,13 +12,13 @@ Steps to install 1 ROS on Ubuntu Mate 20.04
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/83f7e6e4-03c4-43a5-85af-02c6dd1beb0f)
 
 4. Specify memory size and processors to be used in the virtual environment, then click (Next).
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/4a2bad2d-8af0-4fd4-8073-efa9a7e96fba)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/e2d4924c-898b-4d1f-8f93-15b38437a161)
 
 5. Click on (Create a new virtual hard disk) button, specify the disk size, then click (Next).
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/a4818304-12a5-495e-9774-e72f83407f2f)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/0ea4b88a-417f-45c3-8389-c81a8391ac3c)
 
 6. A complete summary of the virtual environment settings will appear, then click (Finish).
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/65f047eb-de3c-49f1-80c9-1f10d4db8a91)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/0f57e11c-6921-4481-be2f-962206753f6a)
 
 7. To install Ubuntu, select the new device from the settings menu.
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/60daeb30-3293-4069-9de0-aa23f110f084)
@@ -30,7 +30,7 @@ You can now close the settings window and return to the main window. Your Ubuntu
 
 ## Step 2:  Ubuntu mate 20.04 Setup
 1. Select the virtual device, then click on the (Start) .
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/fd54dec5-6e8f-48f7-b0f6-419ec9276d4b)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/ba9e5397-d7d8-4ade-a8a8-3723f59a728d)
 
 2. The Ubuntu virtual environment will run in a separate window, similar to the Fig shown below.
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/a1198499-50b8-41f5-b083-8e86ebb3d799)
