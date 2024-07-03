@@ -12,7 +12,7 @@ Steps to install 1 ROS on Ubuntu Mate 20.04
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/83f7e6e4-03c4-43a5-85af-02c6dd1beb0f)
 
 4. Specify memory size and processors to be used in the virtual environment, then click (Next).
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/8293b6ef-7551-48d1-9a8b-727aa77d99ef)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/4a2bad2d-8af0-4fd4-8073-efa9a7e96fba)
 
 5. Click on (Create a new virtual hard disk) button, specify the disk size, then click (Next).
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/a4818304-12a5-495e-9774-e72f83407f2f)
@@ -30,24 +30,24 @@ You can now close the settings window and return to the main window. Your Ubuntu
 
 ## Step 2:  Ubuntu mate 20.04 Setup
 1. Select the virtual device, then click on the (Start) .
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/b6a2362e-d26d-456d-8692-d6d21e4ebe76)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/fd54dec5-6e8f-48f7-b0f6-419ec9276d4b)
 
 2. The Ubuntu virtual environment will run in a separate window, similar to the Fig shown below.
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/51d9ffec-1f31-4431-b526-a504b19a3e19)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/a1198499-50b8-41f5-b083-8e86ebb3d799)
 
 3. On the next , you will see (Installation Options). You can try Ubuntu without installing, choose to install Ubuntu, check disk and memory errors, or select to boot from an existing hard disk. Choose (Install Ubuntu) here.
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/6cbcbd17-cfeb-4227-892d-6fd950a9e503)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/24e13158-58d9-4702-9890-618e483fab59)
 
 4. After Ubuntu loads, select your language and click (Continue).
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/bda4d3b5-4ab8-47a3-b267-912539dafee6)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/096ff7df-f011-4d0f-b881-9407c96250ba)
 
 5. Follow through the default settings and click (Continue).
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/e2fffb52-bf86-4da6-961a-4d2c31888b65)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/e2d4478b-0d07-49b4-90fa-eb3887bc9f41)
 
 6. In the next , select (Erase disk and install Ubuntu MATE).
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/f4383f38-a5c1-4e71-b2fe-69bafcdc1edd)
 
 Then click on (Install Now).
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/5e35d60b-5058-40aa-9aa0-c39684749add)
 
 8. Select your timezone and then click (Continue).
-   ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/8d2891fb-00c4-46a0-86e8-fd6e67c0a4ad)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/7051562f-098d-4070-a52e-bdcf398f8613)
