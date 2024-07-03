@@ -33,7 +33,7 @@ You can now close the settings window and return to the main window. Your Ubuntu
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/ba9e5397-d7d8-4ade-a8a8-3723f59a728d)
 
 2. The Ubuntu virtual environment will run in a separate window, similar to the Fig shown below.
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/a1198499-50b8-41f5-b083-8e86ebb3d799)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/440669bf-6a1d-4ea5-873c-f78a3ee1fdff)
 
 3. On the next , you will see (Installation Options). You can try Ubuntu without installing, choose to install Ubuntu, check disk and memory errors, or select to boot from an existing hard disk. Choose (Install Ubuntu) here.
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/24e13158-58d9-4702-9890-618e483fab59)
