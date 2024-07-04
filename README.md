@@ -5,7 +5,7 @@ Steps to install 1 ROS on Ubuntu Mate 20.04
 
 1. Download the image from this link: [https://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/](https://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/)
 
-2. Open VirtualBox, and select (New) from the menu above, as shown in the Fig below.
+2. Open VirtualBox, and select (New) from the menu above, as shown in the Fig. below.
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/d5338c96-439c-42e8-af0b-0b9f801b2a67)
 
 3. Give a name to the virtual environment and choose the operating system (Linux). Then click (Next).
@@ -14,7 +14,7 @@ Steps to install 1 ROS on Ubuntu Mate 20.04
 4. Specify memory size and processors to be used in the virtual environment, then click (Next).
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/6d7c9391-9a34-44fb-acb3-b09e845cd02d)
 
-5. Click on (Create a new virtual hard disk) button, specify the disk size, then click (Next).
+5. Click on (Create a new virtual hard disk) , specify the disk size, then click (Next).
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/27abb5a9-550f-4b5e-ae97-d380ba6416d2)
 
 6. A complete summary of the virtual environment settings will appear, then click (Finish).
@@ -32,7 +32,7 @@ You can now close the settings window and return to the main window. Your Ubuntu
 1. Select the virtual device, then click on the (Start) .
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/a38cc081-5e77-427f-af5b-c8ec01cbc534)
 
-2. The Ubuntu virtual environment will run in a separate window, similar to the Fig shown below.
+2. The Ubuntu virtual environment will run in a separate window, similar to the Fig. shown below.
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/07b649b7-1a8f-4bef-acd4-b9f487791a86)
 
 3. On the next , you will see (Installation Options). You can try Ubuntu without installing, choose to install Ubuntu, check disk and memory errors, or select to boot from an existing hard disk. Choose (Install Ubuntu) here.
