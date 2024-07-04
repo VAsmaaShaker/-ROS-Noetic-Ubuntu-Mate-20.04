@@ -58,3 +58,12 @@ Then click on (Install Now).
 **Then the installation will begin. Note: The installation process may take time.**
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/f98d6d9e-fd06-43c8-8ec2-d10cb5614150)
 
+10. After finishing, select the "Restart Now" .
+   ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/c7d20ddf-5ba5-4220-b802-60e075d2bc06)
+
+11. In the next window, press Enter.
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/6bfbafe1-3205-4ae9-bdc6-024a02b22442)
+
+12. Successfully installed and running.
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/63cdd8e2-65ea-4e0b-b894-2705eb925b9b)
+
