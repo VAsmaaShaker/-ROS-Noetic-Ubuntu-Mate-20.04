@@ -11,7 +11,6 @@ Steps to install 1 ROS on Ubuntu Mate 20.04
 3. Give a name to the virtual environment and choose the operating system (Linux). Then click (Next).
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/9597a62d-9bec-4042-8749-7855bc5421b8)
 
-
 4. Specify memory size and processors to be used in the virtual environment, then click (Next).
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/6d7c9391-9a34-44fb-acb3-b09e845cd02d)
 
@@ -24,8 +23,8 @@ Steps to install 1 ROS on Ubuntu Mate 20.04
 7. To install Ubuntu, select the new device from the settings menu.
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/60daeb30-3293-4069-9de0-aa23f110f084)
 
-8. From the tab menu, choose (Storage), then click on the (CD/DVD) icon with a (+) next to it to install the ISO file, similar to the Fig below. This will install the Ubuntu ISO file under the control of the virtual machine.
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/4b46827c-303c-4062-b03f-c209ae7e594e)
+8. From the tab menu, choose (Storage), then click on the (CD/DVD) icon  to install the ISO file, similar to the Fig below. This will install the Ubuntu ISO file under the control of the virtual machine.
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/dccb79aa-0aac-4e08-9ef8-bbf4749836af)
 
 You can now close the settings window and return to the main window. Your Ubuntu virtual environment is now ready to boot.
 
@@ -52,14 +51,15 @@ Then click on (Install Now).
 
 8. Select your timezone and then click (Continue).
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/1f676852-e548-4276-80eb-0f5fbf410494)
-9. Then in the next window, you will be asked to enter your information. Fill in the required details such as: username, password, and computer name, then click (Continue).
+
+10. Then in the next window, you will be asked to enter your information. Fill in the required details such as: username, password, and computer name, then click (Continue).
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/24ddfe99-544f-4644-bd84-4bfc8c68fb49)
 
 **Then the installation will begin. Note: The installation process may take time.**
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/f98d6d9e-fd06-43c8-8ec2-d10cb5614150)
 
-10. After finishing, select the "Restart Now" .
-   ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/c7d20ddf-5ba5-4220-b802-60e075d2bc06)
+10. After finishing, select the (Restart Now) .
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/c7d20ddf-5ba5-4220-b802-60e075d2bc06)
 
 11. In the next window, press Enter.
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/6bfbafe1-3205-4ae9-bdc6-024a02b22442)
