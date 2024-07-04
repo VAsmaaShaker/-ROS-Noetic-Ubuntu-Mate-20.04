@@ -59,7 +59,8 @@ You can now close the settings window and return to the main window. Your Ubuntu
 9. After finishing, select the (Restart Now) .
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/c7d20ddf-5ba5-4220-b802-60e075d2bc06)
 
-10. In the next window, press Enter.
+
+11. In the next window, press Enter.
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/6bfbafe1-3205-4ae9-bdc6-024a02b22442)
 
 10. Successfully installed and running.
