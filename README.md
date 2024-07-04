@@ -3,7 +3,7 @@ Steps to install ROS1 noetic on Ubuntu Mate 20.04.
 
 ## Step 1: Install Ubuntu mate 20.04
 
-1. Download the image from this link: [Ubuntu Mate](https://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/)
+1. Download the image from this link: [Ubuntu Mate.](https://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/)
 
 2. Open VirtualBox, and select (New) from the menu above, as shown in the Fig. below.
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/d5338c96-439c-42e8-af0b-0b9f801b2a67)
@@ -67,7 +67,7 @@ You can now close the settings window and return to the main window. Your Ubuntu
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/63cdd8e2-65ea-4e0b-b894-2705eb925b9b)
 
 ## Step 3: Install ROS Noetic
-In this step, I followed the instructions via this link (just copy and paste): http://wiki.ros.org/noetic/Installation/Ubuntu
+In this step, I followed the instructions via this link (just copy and paste): [ROS noetic.](http://wiki.ros.org/noetic/Installation/Ubuntu)
 
 Is Done :)
 
