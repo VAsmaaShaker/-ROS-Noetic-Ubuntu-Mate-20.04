@@ -44,27 +44,25 @@ You can now close the settings window and return to the main window. Your Ubuntu
 5. Follow through the default settings and click (Continue).
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/e2d4478b-0d07-49b4-90fa-eb3887bc9f41)
 
-6. In the next , select (Erase disk and install Ubuntu MATE).
+6. In the next , select (Erase disk and install Ubuntu MATE),and Then click (Install Now).
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/a1dade26-8cf0-466d-924c-f8551dd0a805)
 
-Then click on (Install Now).
-
-8. Select your timezone and then click (Continue).
+7. Select your timezone and then click (Continue).
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/1f676852-e548-4276-80eb-0f5fbf410494)
 
-10. Then in the next window, you will be asked to enter your information. Fill in the required details such as: username, password, and computer name, then click (Continue).
+8. Then in the next window, you will be asked to enter your information. Fill in the required details such as: username, password, and computer name, then click (Continue).
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/24ddfe99-544f-4644-bd84-4bfc8c68fb49)
 
 **Then the installation will begin. Note: The installation process may take time.**
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/f98d6d9e-fd06-43c8-8ec2-d10cb5614150)
 
-10. After finishing, select the (Restart Now) .
+9. After finishing, select the (Restart Now) .
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/c7d20ddf-5ba5-4220-b802-60e075d2bc06)
 
-11. In the next window, press Enter.
+10. In the next window, press Enter.
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/6bfbafe1-3205-4ae9-bdc6-024a02b22442)
 
-12. Successfully installed and running.
+10. Successfully installed and running.
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/63cdd8e2-65ea-4e0b-b894-2705eb925b9b)
 
 ## Step 3: Install ROS Noetic
