@@ -59,7 +59,6 @@ You can now close the settings window and return to the main window. Your Ubuntu
 9. After finishing, select the (Restart Now) .
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/c7d20ddf-5ba5-4220-b802-60e075d2bc06)
 
-
 11. In the next window, press Enter.
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/6bfbafe1-3205-4ae9-bdc6-024a02b22442)
 
@@ -71,4 +70,4 @@ In this step, I followed the instructions via this link (just copy and paste): [
 
 Is Done :)
 
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/c2e1d2c9-9fac-4650-b111-f1520e7b20e2)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/2eb459a8-108e-4059-aaab-838024c640ab)
