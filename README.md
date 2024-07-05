@@ -30,7 +30,7 @@ You can now close the settings window and return to the main window. Your Ubuntu
 
 ## Step 2:  Ubuntu mate 20.04 Setup
 1. Select the virtual device, then click on the (Start) .
-![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/a38cc081-5e77-427f-af5b-c8ec01cbc534)
+![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/5f65beda-dd54-4fb9-82f1-9214fad3a98d)
 
 2. The Ubuntu virtual environment will run in a separate window, similar to the Fig. shown below.
 ![image](https://github.com/VAsmaaShaker/-ROS-Noetic-Ubuntu-Mate-20.04/assets/174564364/07b649b7-1a8f-4bef-acd4-b9f487791a86)
